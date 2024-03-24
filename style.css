@@ -1,0 +1,10 @@
+.swiper{
+    height: 500px;
+    .swiper-slide{
+        background: #ccc;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 60px;
+    }
+}
